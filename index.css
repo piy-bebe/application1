@@ -1,3 +1,4 @@
-p {
-  color: green;
+.off {
+  background-color: black;
+  color: white;
 }
